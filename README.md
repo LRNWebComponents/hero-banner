@@ -9,11 +9,13 @@
 ```
 -->
 ```html
-<hero-banner></hero-banner>
+<hero-banner image="https://lrnwebcomponents.github.io/hax-body/components/hax-body/stock.jpg" title="Alaska" details="Wild and free? Or dangerously cold. You be the judge in our latest report" button-text="Read the report" button-link="https://weather.com/weather/today/l/USAK0012:1:US" button-color="#f57c00"></hero-banner>
 ```
 
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/LRNWebComponents/hero-banner)
 
+Silly promo - https://www.youtube.com/watch?v=IdAKnqp9fMU
+Accessibility of the colors in this -- https://www.youtube.com/watch?v=Z1Fc2kHoFGI
 # \<hero-banner\>
 
 A LRN element
